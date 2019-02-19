@@ -5,6 +5,12 @@ compute how many separate areas are covered by the same number
 --this was supposed to run inside a codility test, 
 so the same testcase has been included--
 
+the output for this test should be as follows:
+>> the total different zones for the matrix A are: 11
+
+feel free to change the testcase as you wish, 
+please consider that A should be matrix-shaped.
+
 Antonio Vasquez 20180219
 '''
 
